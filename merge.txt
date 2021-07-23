@@ -1,2 +1,3 @@
 Contenido original para el merge
+Contenido para mezclar despuesContenido original para el merge
 Contenido agregado a merge.txt
